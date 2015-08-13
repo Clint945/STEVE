@@ -178,9 +178,8 @@ newtheorygammaplot4 = list()
                           #GETTING DIRECTORIES#
 #====================================================================#
 
-#/media/sjd549/Transcend/Scott/Assignments/MSc/MScResearch/1E20baseintensity/RawMovies/   {savename = savename[:(len(savename)-3)] + 'png'}
-
-#./          {savename = savename[2:(len(savename)-3)] + 'png'}
+#For External Media     {savename = savename[:(len(savename)-3)] + 'png'}
+#For ./   		{savename = savename[2:(len(savename)-3)] + 'png'}
 
 
 #Find all files ending in dir recursively from current directory
